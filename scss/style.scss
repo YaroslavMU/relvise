@@ -124,6 +124,11 @@ z-index:50;
     @media (max-width:479px) {
       &__link {
         font-size: 18px;
+      }
+    }
+    @media (max-width: 992px) {
+      &__link {
+      color:#383737;
     }
   }
   &__link:hover {
